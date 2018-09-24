@@ -5,7 +5,7 @@
 - [動きのあるメニューの実装](https://lgraubner.github.io/jquery-offcanvas/)  
 - [グラデーション参考](https://www.nxworld.net/tips/design-parts-using-css-gradient.html)
 - ここで確認！  
-https://yuki-k-lion.github.io/YSF_LP_2018/LP
+https://aiesec-in-japan.github.io/YSF_LP_2018_Production/  
 
 ## 編集の進め方
 - 最初に空のコミットをして
